@@ -10,15 +10,15 @@
 # 대학교 수업
 
 # 1-1학기
- - 전산학기초[[바로가기]](https://github.com/)
- - 프로그래밍기초[바로가기](https://github.com/)
+ - 전산학기초 [[바로가기]](https://github.com/)
+ - 프로그래밍기초 [[바로가기]](https://github.com/)
 
 # 1-2학기
- - 프로그래밍[바로가기](https://github.com/)
+ - 프로그래밍 [[바로가기]](https://github.com/)
 
 # 2-1학기
- - 객체지향언어[바로가기](https://github.com/)
- - 자료구조[바로가기](https://github.com/)
+ - 객체지향언어 [[바로가기]](https://github.com/)
+ - 자료구조 [[바로가기]](https://github.com/)
 
 
 ---
