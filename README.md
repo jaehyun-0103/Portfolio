@@ -1,7 +1,7 @@
 # 📅 대학교 과목
 
 # 1-1학기
- - 전산학기초 [[바로가기]](https://github.com/jaehyun-0103/Assignments_1/tree/main/)
+ - 전산학기초 [[바로가기]]([https://github.com/jaehyun-0103/Assignments_1/tree/main/](https://github.com/jaehyun-0103/Assignments_1/tree/main/%EC%A0%84%EC%82%B0%ED%95%99%EA%B8%B0%EC%B4%88))
  - 프로그래밍기초 [[바로가기]](https://github.com/)
 
 # 1-2학기
