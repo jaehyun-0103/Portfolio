@@ -2,7 +2,7 @@
 
 # 1-1학기
  - 전산학기초 [[바로가기]](https://github.com/jaehyun-0103/Assignments_1/tree/main/%EC%A0%84%EC%82%B0%ED%95%99%EA%B8%B0%EC%B4%88)
- - 프로그래밍기초 [[바로가기]]([https://github.com/](https://github.com/jaehyun-0103/Assignments_1/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88))
+ - 프로그래밍기초 [[바로가기]](https://github.com/jaehyun-0103/Assignments_1/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88)
 
 # 1-2학기
  - 프로그래밍 [[바로가기]](https://github.com/)
