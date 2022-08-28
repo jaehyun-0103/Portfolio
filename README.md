@@ -2,7 +2,7 @@
 
 # 1-1학기
  - 전산학기초 [[바로가기]](https://github.com/jaehyun-0103/Assignments_1/tree/main/%EC%A0%84%EC%82%B0%ED%95%99%EA%B8%B0%EC%B4%88)
- - 프로그래밍기초 [[바로가기]](https://github.com/)
+ - 프로그래밍기초 [[바로가기]]([https://github.com/](https://github.com/jaehyun-0103/Assignments_1/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88))
 
 # 1-2학기
  - 프로그래밍 [[바로가기]](https://github.com/)
@@ -17,8 +17,8 @@
  
 |    날짜    | 과목 | 주제 | 문제 | 결과 | 언어 |
 |:----------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-| 2021.06.07 |프로그래밍기초|클래스 상속|[바로가기](주소)|[바로가기](주소)|python|
-| 2021.06.18 |전산학기초|자판기|[바로가기](naver.com)|[바로가기](naver.com)|python|
+| 2021.06.07 |프로그래밍기초|클래스 상속|[바로가기](https://github.com/jaehyun-0103/Assignments_1#%EA%B3%BC%EC%A0%9C1)|[바로가기](https://github.com/jaehyun-0103/Assignments_1/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88)|python|
+| 2021.06.18 |전산학기초|자판기|[바로가기](https://github.com/jaehyun-0103/Assignments_1#%EC%9E%90%ED%8C%90%EA%B8%B0)|[바로가기](https://github.com/jaehyun-0103/Assignments_1/tree/main/%EC%A0%84%EC%82%B0%ED%95%99%EA%B8%B0%EC%B4%88)|python|
 | 2021.09.27 |프로그래밍|조건문|[바로가기](naver.com)|[바로가기](naver.com)|C|
 | 2021.09.27 |프로그래밍|반복문|[바로가기](naver.com)|[바로가기](naver.com)|C|
 | 2021.10.03 |프로그래밍|함수 사용과 변수의 수명|[바로가기](naver.com)|[바로가기](naver.com)|C|
